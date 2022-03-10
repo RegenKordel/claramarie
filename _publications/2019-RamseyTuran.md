@@ -3,7 +3,7 @@ title: "The Ramsey–Turán problem for cliques"
 collection: publications
 permalink: /publication/2019-RamseyTuran
 excerpt: ''
-date: 2019-03
+date: 2019-04-17
 venue: 'Israel Journal of Mathematics Volume 230'
 paperurl: 'https://link.springer.com/article/10.1007/s11856-019-1831-4'
 citation: 'Lüders, C.M., Reiher, C. The Ramsey–Turán problem for cliques. <i>Isr. J. Math.</i> <b>230</b>, 613–652 (2019). doi: 10.1007/s11856-019-1831-4'
