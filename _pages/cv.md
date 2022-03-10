@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Business Mathematics, University of Hamburg, 2010-2014, Grade: 1.45
+* M.S. in Mathematics, University of Hamburg, 2013-2017, Grade: 1.0
+* Ph.D in Computer Science, University of Hamburg, 2017 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since September 2017: Research Associate
+  * University of Hamburg
+  * <i>Research</i> in Issue Tracking Systems and Knowlegde Managment with Deep Learning, NLP, and Graph Theory & <i>Teaching</i> Software Engineering 1 & 2
+  * Supervisor: Professor Walid Maalej
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2018 - December 2019: Research Engineer
+  * The Qt Company
+  * Research Engineer for the OpenReq project (https://openreq.eu/). Development of a Jira plug-in to facilitate the issue management.
+  
+* June 2017 - August 2017: Intern
+  * PONTON GmbH
+  * Internship, supporting the development of a model to identify market manipulations in energy markets.
+  
+* October 2015 - December 2015: Intern
+  * PHAT CONSULTING GmbH
+  * Understanding and presenting the features of Azure Machine Learning.
+  
+* October 2012 - Octobert 2015: Tutor 
+  * University of Hamburg
+  * Grading and discussing student assignments in the module Mathematics for Computer Scientists. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytical Thinking & Problem Solving
+* AI (Machine Learning and Deep Learning) & Data Science
+* <b> Programming: </b>Python, Java, SQL, VBA
+* <b> Languages: </b>German, English, Japanese, Spanish and a tiny bit Korean.
 
 Publications
 ======
@@ -44,16 +53,15 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Are Machines better human beings? May 2016 
+  * Momentive Performance Materials GmbH
+  * Presentation and disucussion about the application of machine learning in the chemical industry.
   
-Teaching
+* Machine Learning — how Machines affect our daily lives. March 2017 
+  * Daimler AG, Advanced Digital Design RD/DDA
+  * Presentation of the trends in machine learning and their application to design processes.
+    
+Projects
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Women in eSports 
+
